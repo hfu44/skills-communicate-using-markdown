@@ -3,8 +3,6 @@
 
 
 
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
-
-
-
-I changed the stupid label
+look at cat!
